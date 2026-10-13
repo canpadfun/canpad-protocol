@@ -1,0 +1,13 @@
+{
+  "name": "canpad",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Live Solana flow board.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "gates": "node scripts/gates.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

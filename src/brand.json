@@ -1,0 +1,163 @@
+{
+  "note": "Written by scripts/brand.mjs from brand/ only. JPG export was inspected with System.Drawing: dominant 0,0,0 and 255,255,255, zero chromatic samples (JPEG is not decoded by this script).",
+  "files": [
+    "LOGO CANPAD JPG.jpg.jpeg",
+    "LOGO CANPAD PNG...png",
+    "LOGO CANPAD PNG.png"
+  ],
+  "inspected": [
+    {
+      "file": "LOGO CANPAD PNG.png",
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "alpha": {
+        "transparent": 0,
+        "partial": 0,
+        "opaque": 4000000
+      },
+      "dominant": [
+        {
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "pixels": 3702910
+        },
+        {
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "pixels": 271904
+        },
+        {
+          "rgb": [
+            254,
+            254,
+            254
+          ],
+          "pixels": 2758
+        },
+        {
+          "rgb": [
+            1,
+            1,
+            1
+          ],
+          "pixels": 2689
+        }
+      ]
+    },
+    {
+      "file": "LOGO CANPAD PNG...png",
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "alpha": {
+        "transparent": 3705888,
+        "partial": 21895,
+        "opaque": 272217
+      },
+      "dominant": [
+        {
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "pixels": 272217
+        }
+      ]
+    }
+  ],
+  "palette": {
+    "black": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "L": 0,
+      "C": 0,
+      "from": "LOGO CANPAD PNG.png dominant pixel"
+    },
+    "white": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "L": 1,
+      "C": 0,
+      "from": "LOGO CANPAD PNG.png second dominant pixel"
+    }
+  },
+  "logo": {
+    "source": "LOGO CANPAD PNG...png",
+    "canvas": [
+      2000,
+      2000
+    ],
+    "bbox": [
+      638,
+      568,
+      1362,
+      1430
+    ],
+    "points": [
+      [
+        1002,
+        568
+      ],
+      [
+        1362,
+        776
+      ],
+      [
+        1178,
+        886
+      ],
+      [
+        994,
+        782
+      ],
+      [
+        820,
+        880
+      ],
+      [
+        818,
+        1124
+      ],
+      [
+        1004,
+        1228
+      ],
+      [
+        1178,
+        1124
+      ],
+      [
+        1358,
+        1224
+      ],
+      [
+        1008,
+        1430
+      ],
+      [
+        638,
+        1222
+      ],
+      [
+        638,
+        782
+      ]
+    ]
+  }
+}
